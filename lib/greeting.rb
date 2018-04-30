@@ -1,5 +1,5 @@
 # code the #greeting method here!
 
-def greeting(name)
+def greeting
   
 end
