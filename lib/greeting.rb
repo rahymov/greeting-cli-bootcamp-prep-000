@@ -2,4 +2,5 @@
 
 def greeting
   puts "Please enter your name:"
+  name = 
 end
