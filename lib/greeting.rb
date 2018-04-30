@@ -2,5 +2,5 @@
 
 def greeting
   puts "Please enter your name:"
-  name = 
+  name = gets.strip
 end
